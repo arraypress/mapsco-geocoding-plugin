@@ -1,0 +1,17 @@
+{
+  "name": "arraypress/mapsco-geocoding-plugin",
+  "description": "Demonstration WordPress plugin showing Maps.co Geocoding API library integration",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "David Sherlock",
+      "homepage": "https://arraypress.com/"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "arraypress/mapsco-geocoding": "*"
+  },
+  "minimum-stability": "stable"
+}
